@@ -14,8 +14,11 @@ Detects the count of fingers
 **Packages used**
 
 •	OpenCV
+
 •	Numpy
+
 •	Win32api
+
 •	time
 
 **Steps involved for detecting fingers**
